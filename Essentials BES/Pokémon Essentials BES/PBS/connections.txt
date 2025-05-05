@@ -1,0 +1,54 @@
+# Zona Safari (66) - Ruta 1 (5)
+66,North,18,5,South,0
+# Ruta 6 (44) - Ruta 1 (5)
+44,South,43,5,North,0
+# Ciudad Arbusto (7) - Ruta 1 (5)
+7,South,0,5,North,2
+# Pueblo Canuto (2) - Ruta 1 (5)
+2,North,0,5,South,4
+# Pueblo Canuto (2) - Zona Safari (66)
+2,West,0,66,East,0
+# Ruta 8 (69) - Zona Safari (66)
+69,North,0,66,South,10
+# Cueva Bezoya (43) - Isla Bezoya (22)
+43,West,0,22,East,0
+# Ciudad Arbusto (7) - Ruta 6 (44)
+7,West,5,44,East,0
+# Ruta 1 (5) - Parque Natural (28)
+5,93,0,28,0,124
+# Ruta 1 (5) - Isla Daroxy (72)
+5,0,103,72,38,0
+# Monte Plateado (35) - Ruta 4 (39)
+35,West,11,39,East,0
+# Ruta 3 (31) - Cueva Helada (34)
+31,North,44,34,South,0
+# Ruta 1 (5) - Ciudad Papel (78)
+5,0,0,78,53,230
+# Ciudad Arbusto (7) - Pueblo Malvalea (23)
+7,East,0,23,West,78
+# Ruta 3 (31) - Pueblo Malvalea (23)
+31,South,32,23,North,0
+# Ruta 2 (21) - Pueblo Malvalea (23)
+21,East,0,23,West,1
+# Ruta 7 (47) - Ciudad Arbusto (7)
+47,West,0,7,East,0
+# Ruta 2 (21) - Ciudad Arbusto (7)
+21,South,0,7,North,21
+# Cueva Bezoya (43) - Ciudad Arbusto (7)
+43,South,0,7,North,92
+# Ruta 8 (69) - Pueblo Canuto (2)
+69,North,12,2,South,0
+# Ruta 3 (31) - Monte Plateado (35)
+31,West,0,35,East,10
+# Ruta 7 (47) - Ciudad Alverno (52)
+47,East,8,52,West,0
+# Ruta 2 (21) - Ruta 7 (47)
+21,East,77,47,West,0
+# Cueva Bezoya (43) - Ruta 7 (47)
+43,South,0,47,North,32
+# Ruta 1 (5) - Región Tiall (75)
+5,49,97,75,0,0
+# Ruta 5 (41) - Ruta 6 (45)
+41,South,6,45,North,0
+# Ruta 5 (41) - Ruta 4 (40)
+41,North,0,40,South,0
