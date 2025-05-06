@@ -60,7 +60,7 @@
 58,ROCKETBOSS,Comandante,100,Batalla! (Comandante Team POT),,,Male,,
 59,LEADER_Brock,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,,
 60,LEADER_Misty,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,,
-61,LEADER_Surge,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,,
+61,LEADER_Albesa,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,,
 62,LEADER_Erika,Líder Gimnasio,100,Battle! (Gym Leader),,,Female,,
 63,LEADER_Koga,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,,
 64,LEADER_Sabrina,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,,
@@ -72,3 +72,4 @@
 70,ELITEFOUR_Lance,Alto Mando,100,Battle! (Gym Leader),,,Male,,
 71,CHAMPION,Campeón,100,Battle! (Champion),,,Female,,
 72,CAMPISTA,CAMPISTA,231,,,,Mixed,,
+73,UKELELE,Comandante,100,Batalla! (Comandante Team POT),,,Female,,
